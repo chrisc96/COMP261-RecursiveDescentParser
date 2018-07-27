@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="InterpreterProgram:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InterpreterProgram_jar</output-path>
+    <root id="archive" name="InterpreterProgram.jar">
+      <element id="module-output" name="InterpreterProgram" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>

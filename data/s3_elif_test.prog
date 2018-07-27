@@ -1,0 +1,7 @@
+if(eq(numBarrels, 0)){
+	move;
+} elif(gt(numBarrels, 1)){
+	turnL;
+} elif(gt(numBarrels, 1)){
+	turnL;
+}
